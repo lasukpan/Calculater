@@ -10,4 +10,5 @@
     ```bash
    [python calculator.py]
     ```
-2. Кайфуем
+2. Кайфуем![python-logo-png-open-2000-2141662998](https://github.com/user-attachments/assets/18ded436-d7bd-40cd-9dd5-d0604022ba62)
+
