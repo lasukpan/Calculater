@@ -6,6 +6,7 @@
    ```bash
    [git clone https://github.com/lasukpan/Calculater]
    ```
+   Запускаем исполняемый файл
     ```bash
    [python calculator.py]
     ```
